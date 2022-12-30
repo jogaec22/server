@@ -55,7 +55,7 @@
     "loopback-connector-mongodb": "^4.2.0"
   },
   "devDependencies": {
-    "@loopback/build": "^3.1.1",
+    "@loopback/build": "^9.0.6",
     "source-map-support": "^0.5.16",
     "@loopback/testlab": "^1.10.3",
     "@types/node": "^10.17.14",
